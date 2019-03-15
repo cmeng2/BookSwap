@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">517223519497-f3p0f12210bbma8q291nadfd057ghcan.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://all-acticity.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">517223519497</string>
+    <string name="google_api_key" translatable="false">AIzaSyCxGpMoHjXlOkqczYNE4VZ00ZfrfnShTmU</string>
+    <string name="google_app_id" translatable="false">1:517223519497:android:cf097c16a85c1a80</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCxGpMoHjXlOkqczYNE4VZ00ZfrfnShTmU</string>
+    <string name="google_storage_bucket" translatable="false">all-acticity.appspot.com</string>
+    <string name="project_id" translatable="false">all-acticity</string>
+</resources>
